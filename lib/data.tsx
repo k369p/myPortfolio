@@ -107,7 +107,7 @@ export const projects = [
   },
   {
     title: "Age & Gender Prediction System",
-    description: "A powerful and interactive web application that predicts age groups and gender from facial images using deep learning. Built with TensorFlow, and OpenCV, it showcases a complete AI workflow from model training to a user-facing frontend with modern UI/UX.",
+    description: "A powerful and interactive web application that predicts age groups and gender from facial images using deep learning. Built with TensorFlow, and OpenCV, it showcases a workflow from model training to a user-facing frontend with modern UI/UX.",
     technologies: ["Django", "Python", "TensorFlow", "OpenCV", "CNNs: ResNet-50", "MobileNet", "VGG-16", "EfficientNet", "UTKFace"],
     image: AGP,
     github: "https://github.com/k369p/Age-Gender-Prediction",
